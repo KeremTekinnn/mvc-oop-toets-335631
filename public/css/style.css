@@ -1,0 +1,14 @@
+table {
+    border-style: inset;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    justify-content: center;
+}
+
+thead {
+    color: blueviolet;
+}
+
+body {
+    text-align: center;
+}
